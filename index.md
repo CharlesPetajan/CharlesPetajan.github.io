@@ -2,14 +2,14 @@
 title: Home
 layout: home
 ---
-#Welcome
+# Welcome
 
 This is a site created by Charles Petajan mostly as a personal reference as well as an exercise in explaining physics and math topics and skills.
 
 I hope to inlcude content from technical classes I've taken, personal projects, and research involvement.
 
 
-####Some goal sections:
+#### Some goal sections:
 
 Classical mechanics (Newton alongside Hamilton)
 
