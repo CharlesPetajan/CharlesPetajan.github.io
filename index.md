@@ -4,3 +4,8 @@ layout: home
 ---
 
 This is a site created by Charles Petajan mostly as a personal reference as well as an exercise in explaining physics and math topics and skills.
+
+
+$$ 
+\nabla \cdot \vec{E} = \frac{\rho}{\varepsilon_0}
+$$
