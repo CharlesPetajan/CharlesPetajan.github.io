@@ -29,6 +29,7 @@ $$
 
 The integral here is really a good "reason" for Coulomb's inverse square relationship, because the area of a sphere is proportional to its radius squared, so the electric field at a point from a point charge is equal to the supposed point charge in the middle of the sphere an imaginary sphere with an edge touching our point divided by the area of the sphere.
 
+![](/images/inverse_square.png)
 
 
 # Ampere
