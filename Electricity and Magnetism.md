@@ -1,6 +1,7 @@
 ---
 title: Electricity and Magnetism
 layout: default
+nav_order: 99
 ---
 
 # Coulomb
@@ -37,7 +38,23 @@ Getting back to the "set up" comment, not every charge is a point and not every 
 
 ![](/images/plane_of_charge.png)
 
-# Ampere
+# Maxwell-Ampere
+
+This is when we start to see charges moving. When charges move, we have "current" $$I$$, which can be thought of as the amount of "flow" of charge through a surface. In the case of Ampere's Law, we care about any surface defined by a border, which will be an closed loop. The law states that the line integral of the magnetic field dotted with the line element around this closed loop is equal to the current through the corresponding surface plus the rate of change of the E-field flux through that surface.
+
+Integral Form
+
+$$
+\oint_{\mathcal{C}} \mathbf{B} \cdot d\mathbf{l} = \mu_0 I_{\text{enc}} + \mu_0 \varepsilon_0 \frac{d\Phi_E}{dt}
+$$
+
+Differential Form
+
+$$
+\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}
+$$
+
+There are some interesting ideas contained in the setup here, because there is no cannonical surface creation algorithm given a closed loop. It can be shown (and perhaps I will at some point) that any current captured by one surface rather than another is made up for by an equal rate of change in the E-field flux, so surfaces should be chosen for their convenience and problem-solving abilities.
 
 # Biot-Savart
 
