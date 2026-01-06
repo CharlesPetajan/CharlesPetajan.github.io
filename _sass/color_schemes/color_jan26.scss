@@ -1,23 +1,36 @@
 $bronze-spice: #d55f19ff;
 $sky-blue: #7bcdfcff;
-$palm-leaf: #86875aff;
+$palm-leaf: rgb(78, 136, 60);
 $charcoal: #4e4f51ff;
 $sandy-brown: #f69853ff;
 $dark-walnut: #522910ff;
 
+$frost1: #8fbcbb;
+$frost2: #88c0d0;
+$frost3: #81a1c1;
+$frost4: #5e81ac;
+
+$snowstorm1: #D8DEE9;
+
+$pnight1: #2e3440;
+$pnight2: #3b4252;
+$pnight3: #434c5e;
+$pnight4: #4c566a;
+
 $color-scheme: color_jan26;
-$body-background-color: $charcoal;
-$body-heading-color: $palm-leaf;
-$body-text-color: $bronze-spice;
-$link-color: lighten($bronze-spice, 10%);
-$nav-child-link-color: $grey-dk-000;
-$sidebar-color: $sandy-brown;
+$body-background-color: $snowstorm1;
+$body-heading-color: $pnight1;
+$body-text-color: $pnight2;
+$link-color: #000000;
+$nav-child-link-color: $frost1;
+$sidebar-color: #59a6e1;
 $base-button-color: $grey-dk-250;
-$btn-primary-color: $palm-leaf;
+$btn-primary-color: $frost3;
 $code-background-color: #0d1117; // github-dark bg color
 $code-linenumber-color: #e6edf3; // github-dark line number color
-$feedback-color: darken($sidebar-color, 3%);
+$feedback-color: lighten($sidebar-color, 3%);
 $table-background-color: $grey-dk-250;
-$search-background-color: $charcoal;
+$search-background-color: #41EAD4;
 $search-result-preview-color: $grey-lt-300;
 $border-color: $grey-dk-200;
+$sight-title-color: #F5FF90;

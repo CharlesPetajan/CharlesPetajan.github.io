@@ -1,6 +1,7 @@
 ---
 title: Electricity and Magnetism
 layout: default
+parent: Physics Content
 nav_order: 99
 ---
 

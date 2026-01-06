@@ -12,18 +12,18 @@ $body-heading-line-height: 1.25 !default;
 // Font size
 // `-sm` suffix is the size at the small (and above) media query
 
-$font-size-1: 0.5625rem !default;
-$font-size-1-sm: 0.625rem !default;
-$font-size-2: 0.6875rem !default; // h4 - uppercased!, h6 not uppercased, text-small
-$font-size-3: 0.75rem !default; // h5
-$font-size-4: 0.875rem !default;
-$font-size-5: 1rem !default; // h3
-$font-size-6: 1.125rem !default; // h2
-$font-size-7: 1.5rem !default;
-$font-size-8: 2rem !default; // h1
-$font-size-9: 2.25rem !default;
-$font-size-10: 2.625rem !default;
-$font-size-10-sm: 3rem !default;
+$font-size-1: 0.5625rem;
+$font-size-1-sm: 0.625rem;
+$font-size-2: 0.6875rem; // h4 - uppercased!, h6 not uppercased, text-small
+$font-size-3: 0.75rem; // h5
+$font-size-4: 0.875rem;
+$font-size-5: 1rem; // h3
+$font-size-6: 1.125rem; // h2
+$font-size-7: 1.5rem;
+$font-size-8: 2rem; // h1
+$font-size-9: 2.25rem;
+$font-size-10: 2.625rem;
+$font-size-10-sm: 3rem;
 
 // Colors
 
@@ -101,7 +101,7 @@ $nav-width-md: 15.5rem;
 $nav-list-item-height: $sp-6 !default;
 $nav-list-item-height-sm: $sp-8 !default;
 $nav-list-expander-right: true;
-$content-width: 100rem;
+$content-width: 500rem;
 $header-height: 3.75rem !default;
 $search-results-width: $content-width - $nav-width !default;
 $transition-duration: 400ms;
