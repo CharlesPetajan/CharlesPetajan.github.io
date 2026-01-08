@@ -19,17 +19,8 @@
 
   {% include_cached components/site_nav.html %}
 
-  {%- comment -%}
-    note: nav_footer_custom and/or this "site footer" appear in components/footer.html for the mobile view.
-  {%- endcomment -%}
-
   <div class="d-md-block d-none">
-  {% capture nav_footer_custom %}
-    {%- include nav_footer_custom.html -%}
-  {% endcapture %}
-  {% if nav_footer_custom != "" %}
-    {{ nav_footer_custom }}
-  {% else %}
-  {% endif %}
+  <img src="/assets/images/IMG_1184_crop.JPEG">
   </div>
+
 </header>

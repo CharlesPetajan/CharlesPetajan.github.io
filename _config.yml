@@ -53,6 +53,7 @@ exclude:
   - CODE_OF_CONDUCT.md
   - docker-compose.yml
   - Dockerfile
+  - docs/Physics Content
   # theme test code
   - tmp
   - .rspec
