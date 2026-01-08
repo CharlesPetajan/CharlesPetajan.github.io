@@ -2,25 +2,25 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: ""
 permalink: /
 ---
-## Welcome
+<img src="/assets/images/MinneIoWisco24-100818.JPG" align="right" width='340'>
 
-I've created this site as a showcase for my problem solving skills as well as a place to learn more about me as a person and a tinkerer.
+# **Solve** problems with technical skills.<br>**Communicate** with precision, clarity, and kindness. <br>**Work** with grit and discipline.<br>**Learn** with generality for future abstract solutions.
 
-I'd prefer to organize this site abstractly by types of problems and my types of approaches, but I think that would be more difficult to consume, so it is organized by the contexts in which I solve problems.
+## This is what I've done well for years as a student, researcher, teammate, and employee. Now, I'm looking for my next role to apply and refine this philosophy.
 
-I have a hard time not trying to optimize or improve in almost any context I inhabit. This website is not comprehensive; I've selected as many highlights as I've had time to give you a better idea of what I can do as an employee or student.
+## You probobly got here from my resume or an application with my resume, so I won't repeat that information. <br>This website will help you get to know me even better as a person and a tinkerer.
 
-### Quick Summaries:
+## Here is a lot of evidence of success in my last few years of professional experience, athletics, and personal projects.
 
-[***Academic Research***](docs/Academic Research/)
+### Quick Summaries
 
-[***Academics***](docs/Academics/)
+**Professional Experience.** I've worked in two computational academic research groups and at Teen Innovators, a critical-thinking-education startup. These experiences have taught me how to organize and execute my work to fit into a larger team.
 
-[***Athletics***](docs/Athletics/)
+**Athletics.** I've used my technical mindset to inform my triathlon, rugby, bikepacking, and backpacking training and execution. This section focuses mostly on the array of tools I've built for myself and fellow athletes, but I've also included some personal narrative to help you understand my character.
 
-[***Personal Projects***](docs/Personal Projects/)
+**Personal Projects** I can't help it; When I encounter a problem in my daily life, I have to try my best to solve it. These projects are my favorite form of relaxation because of the freedom and challenge they give me. You may not believe me when I say I can't help it, so I've included a list of problems I hope to solve alongside my list of progress.
 
-[***Everyday Systems***](docs/Everyday Systems/)
+## And Here is a little bit more to illustrate my character and personal interests
