@@ -4,24 +4,42 @@ layout: default
 nav_order: 2
 ---
 
+<video width="400" autoplay loop style="float:right;">
+  <source src="/assets/images/snake.mp4" type="video/mp4">
+</video>
+
 - TOC
 {:toc}
+
+
+### Honorable Mention: In Fall 2024, I was the primary organizer and race director for [**Tri The Illini Triathlon**]() with over 500 participants. I've described this experience in detail in the [Athletics](/doc/Athletics) section.
+{: .no_toc}
 
 # Academic Research
 
 I've been involved in computational academic research throughout undergrad. I've been in two research groups and done a few projects with each.
 Undergraduate research has taught me to actively and consistently communicate about my work in a rigourous way. My work product had to fit into a larger field, so standards and rigor were paramount. I've also learned more about my own work timeline management. There are no deadlines, but progress must be made, so I've learned to accurately predict the speed of future progress.
 
+## My Takeaways From Research
+
+It would have been impossible to do undergraduate research not refine my technical toolset. I learned some math, some physics, a lot of biology, and a lot of Python/C++ trivia, but I have most valued the problem solving, working, and learning experience.
+
+- **Problem Solving Experience.** Solving problems in the research environment was challenging and rewarding, because we were at the boundary of what researchers had done, so there was no textbook to map solutions from. I became more comfortable trusting my first principles to create unique progress without approval other than experiment. This experience has inspired me to always work towards unsolved problems.
+
+- **Working Experience.** Working within a larger research group taught me the value of contributing to efforts larger than myself. I had heard of this of course, but when my code and researchs was used and cited by my group mates, and theirs was useful to my work, I felt a great sense of belonging that I'd like in my next role. The team also presents the challenge of matching other's complex timelines, and that was just as rewarding.
+
+- **Learning Experience.** Because of the cutting edge nature of research, my learning was from papers and experiment rather than books and lectures. Cutting edge learning has become a new skill and passion of mine in my academics and personal projects. It takes longer, but I can now develop much deeper understandings because I don't need to be spoon fed. I can construct principles from disparate sources and apply them to fresh problems.
+
 ## Highlighted Projects
 
 ### The Nanorod Walker (March 2024 - January 2025) <br>
 This was a project I had complete ownership over during a summer research fellowship. I designed and successfully simulated a walking robot that could move distances thousands of times its body length per second. There were some major challenges not presented in the poster:
 
-Simulation Workspace. I worked hard to convert all my potential computing resources to useful information. The final set up was an array of computers controlled by a central "task assignment" script that optimized simulation efficiency.
+- **Simulation Workspace.** I worked hard to convert all my potential computing resources to useful information. The final set up was an array of computers controlled by a central "task assignment" script that optimized simulation efficiency.
 
-Simulation Workflow. Computational Science requires careful forethought to refine questions so that computational resources can inform you efficiently. What do you do while your most insightful simulation is running? You better not be "just waiting." Personally, I found it useful to write down my possible outcomes and plan for each in order of likelihood. That way, I was usually ready to take the next step as I learned my results.
+- **Simulation Workflow.** Computational Science requires careful forethought to refine questions so that computational resources can inform you efficiently. What do you do while your most insightful simulation is running? You better not be "just waiting." Personally, I found it useful to write down my possible outcomes and plan for each in order of likelihood. That way, I was usually ready to take the next step as I learned my results.
 
-Biology Content Knowledge. Before starting this project, I had not taken a biology course since 2018. To understand the engineering and computational techniques behind this project, I had to read textbooks, papers, and speak to professors about molecular biology and the principles I would need to simulate proteins accurately.
+- **Biology Content Knowledge.** Before starting this project, I had not taken a biology course since 2018. To understand the engineering and computational techniques behind this project, I had to read textbooks, papers, and speak to professors about molecular biology and the principles I would need to simulate proteins accurately.
 
 <details markdown="block">
 <summary> <b>Poster summarizing the project </b> (It will take ~2 seconds to load.) </summary>
@@ -53,7 +71,15 @@ Here are some important characteristics that make it fast and accurate:
 - Balanced Momentum
 - Local (Each column of sand only "feels" the sand directly around it)
 
-## My Takeaways From Research
+# Teen Innovators (October 2021 - December 2024)
 
-It would have been impossible to do undergraduate research not refine my technical toolset. I learned some more math, some more physics, a lot of biology, and a lot of p
-
+## Teen Innovators is a space for young students to learn skills from older students and adults.
+{: .no_toc}
+## As a Teen Mentor at Teen Innovators, I designed courses, I administered classes and clubs, and I helped improved the company to best meet the needs of our young teens.
+{: .no_toc}
+## As a Manager at Teen Innovators, I directed other Teen Mentors to ensure the execution of our programs.
+{: .no_toc}
+## Key Takeaways
+- **The Effect of My Words.** While working with students younger than me, I learned that they placed great meaning in what I said and taught them. Since then, I've tried my best to honor the responsibility within my words, especially when speaking with those earlier on along paths similar to mine. I'd like to continue to honor this as a I progress professionally.
+- **The Role of Fun in Learning.** I learned how a little competition, a little goofiness, and little grace can improve learning significantly. Students only begin to learn once they are intentional, and that intention can come from negative and positive forces. Students always wanted to come back when those forces were positive.
+- **Community.** Seeing the same coworkers and students every week created a great sense of community in my classes and clubs. When I began to faze out of my synchronous responsibilities, it was tough to lose that comfort. I'm excited to find that familiarity again in my future professional environment.
