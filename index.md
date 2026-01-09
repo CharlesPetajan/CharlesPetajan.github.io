@@ -4,8 +4,10 @@ layout: home
 nav_order: 1
 description: ""
 permalink: /
+secondary_content: |
+    ![](/assets/images/MinneIoWisco24-100818.JPG)
 ---
-<img src="/assets/images/MinneIoWisco24-100818.JPG" align="right" width='340'>
+
 
 # **Solve** problems with technical skills.<br>**Communicate** with precision, clarity, and kindness. <br>**Work** with grit and discipline.<br>**Learn** with generality for future abstract solutions.
 
@@ -23,4 +25,4 @@ permalink: /
 
 **Personal Projects** I can't help it; When I encounter a problem in my daily life, I have to try my best to solve it. These projects are my favorite form of relaxation because of the freedom and challenge they give me. You may not believe me when I say I can't help it, so I've included a list of problems I hope to solve alongside my list of progress.
 
-## And Here is a little bit more to illustrate my character and personal interests
+## And HERE is a little bit more about personal interests

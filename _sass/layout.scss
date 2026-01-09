@@ -60,19 +60,48 @@
 
   @include mq(md) {
     position: relative;
-    max-width: $content-width;
   }
 }
 
 .main-content-wrap {
-  padding-top: $gutter-spacing-sm;
+  padding-top: 0rem;
   padding-bottom: $gutter-spacing-sm;
 
-  @include container;
+  padding-right: 0rem;
+  padding-left: 2rem;
 
   @include mq(md) {
-    padding-top: $gutter-spacing;
     padding-bottom: $gutter-spacing;
+  }
+}
+
+.main-columns {
+  display: flex;
+}
+
+.main-content {
+  flex: 0 0 auto;
+  max-width: 100%;
+  padding-right: 2rem;
+
+  @include mq(md) {
+    max-width: 75%;
+    padding-right: 0rem;
+  }
+}
+
+.main-content-secondary {
+  flex: 1;
+  min-width: 20%;
+  display: none;
+
+  .main-content {
+    padding: 0;
+    margin: 0;
+  }
+
+  @include mq(md) {
+    display: block;
   }
 }
 

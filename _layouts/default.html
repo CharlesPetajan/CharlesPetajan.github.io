@@ -36,7 +36,11 @@ layout: table_wrappers
           {% include components/footer.html %}
         </div>
         <div class="main-content-secondary">
-          <!-- Secondary main body column content goes here -->
+          {% if page.secondary_content %}
+            <div class="main-content">
+              {{ page.secondary_content | markdownify }}
+            </div>
+          {% endif %}
         </div>
       </div>
     </div>
