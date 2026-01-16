@@ -46,7 +46,7 @@ It uses Docker Compose managed by Portainer to serve:
 - **Pictures.** When I wanted to switch from Google Images to another image hosting site, Google would only let me download pictures one at a time or all at once without any metadata. Once I repaired my metadata, I decided no one would keep my memories ransom again, so I store my pictures on Harold with Immich, a suprisingly sophisticated, GPU accelerated image server with ML tagging just like the big boys.
 - **Password Manager.** I use VaultWarden, which is compatible with BitWarden Clients.
 
-## Resilience.
+### Resilience.
 
 
 
